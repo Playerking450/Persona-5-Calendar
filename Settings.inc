@@ -3,11 +3,11 @@
 ;You can check it on OpenWeatherMap.com. Search for your city and the id will be in the url 
 ;e.x. https://openweathermap.org/city/2643743
 
-LocationCode=
+LocationCode=2523228
 
 ;You also have to get a free API key by registering
 
-ApiKey=
+ApiKey=e6a7cba611f57d6b2416f1d3c58fa8ee
 
 ; Select which version of the calendar you want
 ; Valid options:
